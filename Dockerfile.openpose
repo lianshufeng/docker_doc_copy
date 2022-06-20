@@ -1,0 +1,3 @@
+#load latest
+FROM lianshufeng/openpose:gpu 
+MAINTAINER lianshufeng <251708339@qq.com>
